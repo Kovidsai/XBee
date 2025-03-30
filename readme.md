@@ -1,9 +1,8 @@
 # Xbee - A Twitter-like Social Media Platform
 
 <p align="center">
-  <img src="https://github.com/Kovidsai/XBee/blob/main/frontend/src/assets/xbee.png" alt="Xbee Logo" width="150"> <!-- Replace with your actual logo -->
-  <h1 align="center">Xbee</h1>
-  <p align="center">A modern, scalable social media platform built with Go, React, and AWS</p>
+  <h3 align="center">Xbee</h3>
+  <p align="center">A modern, scalable social media platform built with Go, React</p>
 </p>
 
 ## ✨ Features
