@@ -1,9 +1,7 @@
 # Xbee - A Twitter-like Social Media Platform
 
-<p align="center">
-  <h3 align="center">Xbee</h3>
-  <p align="center">A modern, scalable social media platform built with Go, React</p>
-</p>
+<p>A modern, scalable social media platform built with Go, React</p>
+
 
 ## ✨ Features
 
